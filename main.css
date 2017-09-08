@@ -1,0 +1,46 @@
+body {
+	background: #b3ffff;
+}
+
+.navigation {
+	margin-top: 10px;
+	margin-left: 13%;
+	margin-bottom: 10px;
+}
+
+.formular {
+    margin: auto;
+	margin-top: 50px;
+    width: 20%;
+}
+
+img {
+	margin: auto;
+	display: block;
+}
+
+.selectRow {
+    display : block;
+    padding : 20px;
+}
+
+.select2-container {
+    width: 200px;
+}
+
+.reds {
+    color: red;
+}
+
+.horizont {
+	border-top: solid #424242 2px;
+}
+
+header {
+	margin-top: 35px;
+}
+
+
+
+
+
